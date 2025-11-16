@@ -1,0 +1,6 @@
+# Ignore original PDF files directory
+orig/
+
+# Ignore LaTeX files
+*.tex
+
